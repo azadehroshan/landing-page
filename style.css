@@ -1,0 +1,76 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+img{
+  width:100%;
+  height:auto;
+  
+}
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
+
+body {
+  font: 16px Helvetica, Arial, sans-serif;
+}
+a.button {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+iframe{
+  width:713; 
+  height:401;
+  frameborder:0;
+  padding-left:30%;
+}
+inspect: rgba(red, green, blue, alpha)
+font-color
+{font-color:black;}
+h1{color: green}
+h1 {
+  text-align: center;
+}
+div {
+  text-align: justify;
+}
+h1 {
+  background-color: gray;
+}
+
+body {
+  background-color: white;
+}
+div {
+  background: rgba(0, 100, 0, 0.3) /* green background with 40% opacity */
+}
+a{
+  text-decoration:none;
+  text-align:center;
+  color:black;
+  padding:14px 16px;
+  font-weight:bold;
+  
+}
+.content-head-text{
+ text-align:center;
+}
+.name{
+  font-weight:bold;
+}
+
+body {background-color: lightgray;}
+
+@font-family:arial
+  src:url(fonts)
+font-weight:normal;
